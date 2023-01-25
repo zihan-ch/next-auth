@@ -1,6 +1,6 @@
 {
-  "name": "@auth/core",
-  "version": "0.3.0",
+  "name": "zihan-auth-core",
+  "version": "0.3.1",
   "description": "Authentication for the Web.",
   "keywords": [
     "authentication",
